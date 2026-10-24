@@ -14,7 +14,7 @@ This repository contains the manifest files for the **Windows Package Manager** 
 
 The **Windows Package Manager** is an [open source client](https://github.com/microsoft/winget-cli) designed for command-line usage. If you are interested in exploring private repositories offering private WinGet package hosting, see [private repositories](doc/private/README.md).
 
-# Documentation
+# Documentation:
 
 Please check the [overview](doc/README.md) for detailed topics. Common topics for the WinGet Community repository are available below:
 * [Authoring a manifest](doc/README.md#authoring-a-manifest)
